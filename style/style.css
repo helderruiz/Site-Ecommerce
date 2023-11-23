@@ -5,3 +5,12 @@
 .divs__facilidades {
     width: 325px;
 }
+
+.icone__verde {
+    color: #DAFF01;
+}
+
+.lilas {
+    background-color: #9353FF;
+    border: none;
+}
